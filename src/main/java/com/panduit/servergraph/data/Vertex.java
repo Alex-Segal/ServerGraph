@@ -16,14 +16,28 @@ public class Vertex {
 	public void setLabel(String label) {
 		this.label = label;
 	}
+		
 
-
-	@Override
+	
+    @Override
     public boolean equals(Object obj) {
-		boolean isEqual = false;
-	    if(this == obj) 
-	    	isEqual = true;
-	    
-	    return isEqual;
-    } 
+        if (this == obj)
+            return true;
+        if (obj == null)
+            return false;
+        if (getClass() != obj.getClass())
+            return false;
+        Vertex other = (Vertex) obj;
+        if (label == null) {
+            if (other.label != null)
+                return false;
+        } else if (!label.equals(other.label))
+            return false;
+        return true;
+    }
+    
+    @Override
+    public String toString() {
+        return  label;
+    }
 }
