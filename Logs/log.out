@@ -1,0 +1,976 @@
+Added Vertex: Server1
+Removed Vertex: Server1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Dual Directed Edge: link1
+Removed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: link1
+Added Dual Directed Edge: link2
+Added Dual Directed Edge: link3
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Dual Directed Edge: link1
+Removed Edge from Verticies: Server1 and Server2
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: link0
+Added Dual Directed Edge: link1
+Added Dual Directed Edge: link2
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server6
+Added Vertex: Server9
+Added Vertex: Server1
+Added Vertex: Server3
+Added Vertex: Server4
+Added Dual Directed Edge: link1
+Added Vertex: Server1
+Removed Vertex: Server1
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Removed Edge: Edge0
+Added Directed Edge: Edge0
+Removed Edge: Edge0
+Added Directed Edge: Edge0
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Removed Edge: Edge0
+Added Directed Edge: Edge0
+Removed Edge: Edge0
+Added Directed Edge: Edge0
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Removed Edge: Edge0
+Added Directed Edge: Edge0
+Removed Edge: Edge0
+Added Directed Edge: Edge0
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Removed Edge: Edge0
+Added Directed Edge: Edge0
+Removed Edge: Edge0
+Added Directed Edge: Edge0
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Removed Edge: Edge0
+Added Directed Edge: Edge0
+Removed Edge: Edge0
+Added Directed Edge: Edge0
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Removed Edge: Edge0
+Added Directed Edge: Edge0
+Removed Edge: Edge0
+Added Directed Edge: Edge0
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Removed Edge: Edge2
+Added Directed Edge: Edge2
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Removed Edge: Edge2
+Added Directed Edge: Edge2
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Removed Edge: Edge2
+Added Directed Edge: Edge2
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Removed Edge: Edge2
+Added Directed Edge: Edge2
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Removed Edge: Edge2
+Added Directed Edge: Edge2
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Removed Edge: Edge2
+Added Directed Edge: Edge2
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Vertex: Server5
+Added Vertex: Server6
+Added Vertex: Server7
+Added Vertex: Server8
+Added Vertex: Server9
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Vertex: Server5
+Added Vertex: Server6
+Added Vertex: Server7
+Added Vertex: Server8
+Added Vertex: Server9
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Vertex: Server5
+Added Vertex: Server6
+Added Vertex: Server7
+Added Vertex: Server8
+Added Vertex: Server9
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Vertex: Server5
+Added Vertex: Server6
+Added Vertex: Server7
+Added Vertex: Server8
+Added Vertex: Server9
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Vertex: Server5
+Added Vertex: Server6
+Added Vertex: Server7
+Added Vertex: Server8
+Added Vertex: Server9
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Vertex: Server5
+Added Vertex: Server6
+Added Vertex: Server7
+Added Vertex: Server8
+Added Vertex: Server9
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Vertex: Server5
+Added Vertex: Server6
+Added Vertex: Server7
+Added Vertex: Server8
+Added Vertex: Server9
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Vertex: Server5
+Added Vertex: Server6
+Added Vertex: Server7
+Added Vertex: Server8
+Added Vertex: Server9
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Vertex: Server5
+Added Vertex: Server6
+Added Vertex: Server7
+Added Vertex: Server8
+Added Vertex: Server9
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Vertex: Server5
+Added Vertex: Server6
+Added Vertex: Server7
+Added Vertex: Server8
+Added Vertex: Server9
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Vertex: Server5
+Added Vertex: Server6
+Added Vertex: Server7
+Added Vertex: Server8
+Added Vertex: Server9
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Vertex: Server5
+Added Vertex: Server6
+Added Vertex: Server7
+Added Vertex: Server8
+Added Vertex: Server9
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Vertex: Server5
+Added Vertex: Server6
+Added Vertex: Server7
+Added Vertex: Server8
+Added Vertex: Server9
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Vertex: Server5
+Added Vertex: Server6
+Added Vertex: Server7
+Added Vertex: Server8
+Added Vertex: Server9
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Vertex: Server5
+Added Vertex: Server6
+Added Vertex: Server7
+Added Vertex: Server8
+Added Vertex: Server9
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Vertex: Server5
+Added Vertex: Server6
+Added Vertex: Server7
+Added Vertex: Server8
+Added Vertex: Server9
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Vertex: Server5
+Added Vertex: Server6
+Added Vertex: Server7
+Added Vertex: Server8
+Added Vertex: Server9
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Vertex: Server5
+Added Vertex: Server6
+Added Vertex: Server7
+Added Vertex: Server8
+Added Vertex: Server9
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server1
+Added Vertex: Server2
+Added Dual Directed Edge: link1
+Removed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: link1
+Added Dual Directed Edge: link2
+Added Dual Directed Edge: link3
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Dual Directed Edge: link1
+Removed Edge from Verticies: Server1 and Server2
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: link0
+Added Dual Directed Edge: link1
+Added Dual Directed Edge: link2
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server6
+Added Vertex: Server9
+Added Vertex: Server1
+Added Vertex: Server3
+Added Vertex: Server4
+Added Dual Directed Edge: link1
+Added Vertex: Server1
+Removed Vertex: Server1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Vertex: Server5
+Added Vertex: Server6
+Added Vertex: Server7
+Added Vertex: Server8
+Added Vertex: Server9
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Vertex: Server5
+Added Vertex: Server6
+Added Vertex: Server7
+Added Vertex: Server8
+Added Vertex: Server9
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Vertex: Server0
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Vertex: Server5
+Added Vertex: Server6
+Added Vertex: Server7
+Added Vertex: Server8
+Added Vertex: Server9
+Added Directed Edge: Edge0
+Added Directed Edge: Edge1
+Added Directed Edge: Edge2
+Added Directed Edge: Edge3
+Added Vertex: Server1
+Added Vertex: Server2
+Added Dual Directed Edge: link1
+Removed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: link1
+Added Dual Directed Edge: link2
+Added Dual Directed Edge: link3
+Added Vertex: Server1
+Added Vertex: Server2
+Added Directed Edge: link1
+Added Vertex: Server1
+Added Vertex: Server2
+Added Dual Directed Edge: link1
+Removed Edge from Verticies: Server1 and Server2
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server3
+Added Vertex: Server4
+Added Directed Edge: link0
+Added Dual Directed Edge: link1
+Added Dual Directed Edge: link2
+Added Vertex: Server1
+Added Vertex: Server2
+Added Vertex: Server6
+Added Vertex: Server9
+Added Vertex: Server1
+Added Vertex: Server3
+Added Vertex: Server4
+Added Dual Directed Edge: link1
+Added Vertex: Server1
+Removed Vertex: Server1

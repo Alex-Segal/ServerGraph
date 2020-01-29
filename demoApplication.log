@@ -1,0 +1,35 @@
+[main] INFO  com.panduit.servergraph.data.Graph  - Added Vertex: Server1
+[main] INFO  com.panduit.servergraph.data.Graph  - Added Vertex: Server2
+[main] INFO  com.panduit.servergraph.data.Graph  - Added Dual Directed Edge: link1
+[main] INFO  com.panduit.servergraph.data.Graph  - Removed Edge: link1
+[main] INFO  com.panduit.servergraph.data.Graph  - Added Vertex: Server1
+[main] INFO  com.panduit.servergraph.data.Graph  - Added Vertex: Server2
+[main] INFO  com.panduit.servergraph.data.Graph  - Added Vertex: Server3
+[main] INFO  com.panduit.servergraph.data.Graph  - Added Vertex: Server4
+[main] INFO  com.panduit.servergraph.data.Graph  - Added Directed Edge: link1
+[main] INFO  com.panduit.servergraph.data.Graph  - Added Dual Directed Edge: link2
+[main] INFO  com.panduit.servergraph.data.Graph  - Added Dual Directed Edge: link3
+[main] INFO  com.panduit.servergraph.data.Graph  - Added Vertex: Server1
+[main] INFO  com.panduit.servergraph.data.Graph  - Added Vertex: Server2
+[main] INFO  com.panduit.servergraph.data.Graph  - Added Directed Edge: link1
+[main] INFO  com.panduit.servergraph.data.Graph  - Added Vertex: Server1
+[main] INFO  com.panduit.servergraph.data.Graph  - Added Vertex: Server2
+[main] INFO  com.panduit.servergraph.data.Graph  - Added Dual Directed Edge: link1
+[main] INFO  com.panduit.servergraph.data.Graph  - Removed Edge from Verticies: Server1 and Server2
+[main] INFO  com.panduit.servergraph.data.Graph  - Added Vertex: Server1
+[main] INFO  com.panduit.servergraph.data.Graph  - Added Vertex: Server2
+[main] INFO  com.panduit.servergraph.data.Graph  - Added Vertex: Server3
+[main] INFO  com.panduit.servergraph.data.Graph  - Added Vertex: Server4
+[main] INFO  com.panduit.servergraph.data.Graph  - Added Directed Edge: link0
+[main] INFO  com.panduit.servergraph.data.Graph  - Added Dual Directed Edge: link1
+[main] INFO  com.panduit.servergraph.data.Graph  - Added Dual Directed Edge: link2
+[main] INFO  com.panduit.servergraph.data.Graph  - Added Vertex: Server1
+[main] INFO  com.panduit.servergraph.data.Graph  - Added Vertex: Server2
+[main] INFO  com.panduit.servergraph.data.Graph  - Added Vertex: Server6
+[main] INFO  com.panduit.servergraph.data.Graph  - Added Vertex: Server9
+[main] INFO  com.panduit.servergraph.data.Graph  - Added Vertex: Server1
+[main] INFO  com.panduit.servergraph.data.Graph  - Added Vertex: Server3
+[main] INFO  com.panduit.servergraph.data.Graph  - Added Vertex: Server4
+[main] INFO  com.panduit.servergraph.data.Graph  - Added Dual Directed Edge: link1
+[main] INFO  com.panduit.servergraph.data.Graph  - Added Vertex: Server1
+[main] INFO  com.panduit.servergraph.data.Graph  - Removed Vertex: Server1
